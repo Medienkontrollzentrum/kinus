@@ -76,7 +76,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̀   | grave         |\` \`|
 | ◌̂   | circumflex    | ^ ^ |
 | ◌̃   | tilde	       | ~ ~ |
-| ◌̈   | selon umlaut  | . . |
+| ◌̈   | diaeresis     | . . |
 | ◌̧   | cedilla	   | , , |
 |     |               |     | 
 |     |      `Invert` |`~`  |
@@ -91,18 +91,18 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̦   | undercomma	   | ; , |
 | ◌̇   | overdot	   | ; . |
 | ◌̄   | macron	       | ; - |
-| ◌̵   | crossbar	   | ; - |
+| ◌̱   | underbar	   | ; _ |
+| ◌̱   | slash   	   | ; / |
 |     |               |     |
 |     |      `Extent` |`:`  |
 | ◌̆   | breve	       | : ^ |
 | ◌̏   | double grave  | : " |
 | ◌̓   | apostrophe	   | : ' |
 | ◌̣   | underdot	   | : . |
-| ◌̱   | underbar	   | : - |
+| ◌̵   | crossbar	   | : - |
 | ◌͡◌  | merge	       | : : |
 |     |               |     |
 |     |      `Unique` |`!!` |
-| ◌̷   | slash	       | ! ! |
 | ◌̊   | overring	   | ! ! |
 | ◌   | others	      | ! ! |
 
