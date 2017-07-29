@@ -13,7 +13,7 @@
 
 A project of the [Medienkontrollzentrum](https://medienkontrollzentrum.com), open to public debate. The idea was to create an universal keyboard shortcut standard for Western Latin UTF-8 characters, based on the U.S. standard keyboard layout, to improve typing skills and ease international communication.
 
-You get a total of 679 characters: 570 letters + 109 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
+You get a total of 677 characters: 568 letters + 109 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
 
 ![alt text](https://github.com/Medienkontrollzentrum/kinus/blob/master/kinus_QWERTY_keyboard.png "kînus QWERTY Keyboard")
 
