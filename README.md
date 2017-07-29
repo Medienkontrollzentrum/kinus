@@ -55,7 +55,7 @@ I took a closer look on the Latin characters used in Europe, and developed a key
 
 ### Conclusion
 
-If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 2.7.1.
+If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 3.0.1.
 
 Please contact me for errors that you have noticed, also please let me know what other languages you would like. Maybe it resolves the Misk section.
 
