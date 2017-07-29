@@ -92,7 +92,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̇   | overdot	   | ; . |
 | ◌̄   | macron	       | ; - |
 | ◌̱   | underbar	   | ; _ |
-| ◌̱   | slash   	   | ; / |
+| ◌̷   | slash   	   | ; / |
 |     |               |     |
 |     |      `Extent` |`:`  |
 | ◌̆   | breve	       | : ^ |
