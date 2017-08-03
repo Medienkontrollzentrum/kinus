@@ -1,6 +1,6 @@
 ﻿; Release:  2017-06-25
-; Date:     2017-07-28
-; Version:  kînus 3.0.1
+; Date:     2017-08-04
+; Version:  kînus 3.0.2
 ;
 ; Author:   Mark Perleberg, Medienkontrollzentrum, Berlin
 ; Info:     http://medienkontrollzentrum.com/kinus
