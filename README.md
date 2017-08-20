@@ -79,7 +79,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̃   | tilde	       | ~ ~ |
 | ◌̈   | diaeresis     | . . |
 | ◌̧   | cedilla	   | , , |
-| ◌̊   | overring	   | ! ! |
+| ◌̊   | overring	   | : : |
 |     |               |     | 
 |     |      `Invert` |`~`  |
 | ◌́   | acute	       | ~ \`|
@@ -89,8 +89,8 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 |     |      `Intent` |`;`  |
 | ◌̑   | inverted breve| ; ^ |
 | ◌̋   | double acute  | ; " |
-| ◌̓   | apostrophe	   | ; ' |
-| ◌̛   | overcomma	   | ; ' |
+| ◌̛   | apostrophe	   | ; ' |
+| ◌̓   | overcomma	   | ; , |
 | ◌̇   | overdot	   | ; . |
 | ◌̄   | macron	       | ; - |
 | ◌̱   | underbar	   | ; _ |
@@ -105,7 +105,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 |     |               |     |
 |     |      `Unique` |`!!` |
 | ◌   | others	      | ! ! |
-| ◌͡◌  | merge	       | : : |
+| ◌͡◌  | merge	       | ! ! |
 
 
 More information and tutorial: https://medienkontrollzentrum.com/kinus
