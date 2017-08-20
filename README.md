@@ -2,19 +2,19 @@
 
 ### kînus - Additional Latin Characters &amp; Symbols for a standard U.S. Keyboard
 
-    Update    2017-08-03
-    Version   kînus 3.0.2
+    Update    2017-08-20
+    Version   kînus 4.1.4
     Author    Mark Perleberg
     Email     info@medienkontrollzentrum.de
     Info      https://medienkontrollzentrum.com/kinus
     
-    MD5 kinus_3.0.2.exe  157221245fc70366fae96a524e4cae66
+    MD5 kinus_4.1.4.exe  23e2d10d96bf4d5f4f965e5638e04837
 
 
 
 A project of the [Medienkontrollzentrum](https://medienkontrollzentrum.com), open to public debate. The idea was to create an universal keyboard shortcut standard for Western Latin UTF-8 characters, based on the U.S. standard keyboard layout, to improve typing skills and ease international communication.
 
-You get a total of 651 characters: 542 letters + 109 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
+You get a total of 799 characters: 689 letters + 110 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
 
 ![alt text](https://github.com/Medienkontrollzentrum/kinus/blob/master/kinus_QWERTY_keyboard.png "kînus QWERTY Keyboard")
 
@@ -56,7 +56,7 @@ I took a closer look on the Latin characters used in Europe, and developed a key
 
 ### Conclusion
 
-If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 3.0.2.
+If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 4.1.4.
 
 Please contact me for errors that you have noticed, also please let me know what other languages you would like. Maybe it resolves the Misk section.
 
@@ -79,6 +79,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̃   | tilde	       | ~ ~ |
 | ◌̈   | diaeresis     | . . |
 | ◌̧   | cedilla	   | , , |
+| ◌̊   | overring	   | ! ! |
 |     |               |     | 
 |     |      `Invert` |`~`  |
 | ◌́   | acute	       | ~ \`|
@@ -88,8 +89,8 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 |     |      `Intent` |`;`  |
 | ◌̑   | inverted breve| ; ^ |
 | ◌̋   | double acute  | ; " |
-| ◌̛   | horn	       | ; ' |
-| ◌̦   | undercomma	   | ; , |
+| ◌̓   | apostrophe	   | ; ' |
+| ◌̛   | overcomma	   | ; ' |
 | ◌̇   | overdot	   | ; . |
 | ◌̄   | macron	       | ; - |
 | ◌̱   | underbar	   | ; _ |
@@ -98,14 +99,13 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 |     |      `Extent` |`:`  |
 | ◌̆   | breve	       | : ^ |
 | ◌̏   | double grave  | : " |
-| ◌̓   | apostrophe	   | : ' |
+| ◌̦   | undercomma	   | : , |
 | ◌̣   | underdot	   | : . |
 | ◌̵   | crossbar	   | : - |
-| ◌͡◌  | merge	       | : : |
 |     |               |     |
 |     |      `Unique` |`!!` |
-| ◌̊   | overring	   | ! ! |
 | ◌   | others	      | ! ! |
+| ◌͡◌  | merge	       | : : |
 
 
 More information and tutorial: https://medienkontrollzentrum.com/kinus
