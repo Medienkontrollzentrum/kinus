@@ -8,7 +8,8 @@
     Email     info@medienkontrollzentrum.de
     Info      https://medienkontrollzentrum.com/kinus
     
-    MD5 kinus_4.1.4.exe  23e2d10d96bf4d5f4f965e5638e04837
+    MD5 kinus_4.1.4.exe  ec2e1906ec9ece69192454517a2d750e
+
 
 
 
