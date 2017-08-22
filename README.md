@@ -8,14 +8,14 @@
     Email     info@medienkontrollzentrum.de
     Info      https://medienkontrollzentrum.com/kinus
     
-    MD5 kinus_4.1.4.exe  ec2e1906ec9ece69192454517a2d750e
+    MD5 kinus_4.1.5.exe  8924cb709c0831d45daa689c2e9a9693
 
 
 
 
 A project of the [Medienkontrollzentrum](https://medienkontrollzentrum.com), open to public debate. The idea was to create an universal keyboard shortcut standard for Western Latin UTF-8 characters, based on the U.S. standard keyboard layout, to improve typing skills and ease international communication.
 
-You get a total of 799 characters: 689 letters + 110 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
+You get a total of 805 characters: 695 letters + 110 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
 
 ![alt text](https://github.com/Medienkontrollzentrum/kinus/blob/master/kinus_QWERTY_keyboard.png "kînus QWERTY Keyboard")
 
@@ -36,6 +36,7 @@ I took a closer look on the Latin characters used in Europe, and developed a key
 * German
 * Hungarian
 * Icelandic
+* Irish
 * Kikuyu
 * Latvian
 * Livonian
@@ -57,7 +58,7 @@ I took a closer look on the Latin characters used in Europe, and developed a key
 
 ### Conclusion
 
-If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 4.1.4.
+If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 4.1.5.
 
 Please contact me for errors that you have noticed, also please let me know what other languages you would like. Maybe it resolves the Misk section.
 
