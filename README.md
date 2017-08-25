@@ -83,7 +83,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̧   | cedilla	   | , , |
 | ◌̊   | overring	   | : : |
 |     |               |     | 
-|     |      `Invert` |`~`  |
+|     |     `Inverse` |`~`  |
 | ◌́   | acute	       | ~ \`|
 | ◌̌   | caron	       | ~ ^ |
 | ◌̨   | ogonek	       | ~ , |
