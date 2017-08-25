@@ -17,7 +17,7 @@ A project of the [Medienkontrollzentrum](https://medienkontrollzentrum.com), ope
 
 You get a total of 840 characters: 723 letters + 117 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
 
-![alt text](https://github.com/Medienkontrollzentrum/kinus/blob/master/kinus_QWERTY_keyboard.png "kînus QWERTY Keyboard")
+![alt text](https://github.com/Medienkontrollzentrum/kinus/blob/master/kinus_keyboard.png "kînus QWERTY Keyboard")
 
 Using a standard U.S. keyboard when programming gives you some advantages over country specific keyboards. The typical characters used can be accessed much easier. But there is a catch - when you correspond in a non English language, you miss certain characters used in some languages like: **à** or **ä**
 
