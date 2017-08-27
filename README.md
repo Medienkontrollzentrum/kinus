@@ -2,20 +2,20 @@
 
 ### kînus - Additional Latin Characters &amp; Symbols for a standard U.S. Keyboard
 
-    Update    2017-08-25
-    Version   kînus 4.2.4
+    Update    2017-08-27
+    Version   kînus 4.3.2
     Author    Mark Perleberg
     Email     info@medienkontrollzentrum.de
     Info      https://medienkontrollzentrum.com/kinus
     
-    MD5 kinus_4.2.4.exe  2a4d2e6540fd84bd24147deaf1ea0e8d
+    MD5 kinus_4.2.4.exe  f47a696e86009a7f8bfdd619c5842699
 
 
 
 
 A project of the [Medienkontrollzentrum](https://medienkontrollzentrum.com), open to public debate. The idea was to create an universal keyboard shortcut standard for Western Latin UTF-8 characters, based on the U.S. standard keyboard layout, to improve typing skills and ease international communication.
 
-You get a total of 840 characters: 723 letters + 117 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
+You get a total of 902 characters: 785 letters + 117 symbols and numbers. It supports over 30 languages with only one keyboard and is easy to remember !
 
 ![alt text](https://github.com/Medienkontrollzentrum/kinus/blob/master/kinus_keyboard.png "kînus QWERTY Keyboard")
 
@@ -58,11 +58,13 @@ I took a closer look on the Latin characters used in Europe, and developed a key
 
 ### Conclusion
 
-If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 4.2.4.
+If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 4.3.2.
+
+Autohotkey is only used to demonstate the functional capability of the idea behind <strong>kînus</strong>. Integration should take place on the OS-Level.
 
 Please contact me for errors that you have noticed, also please let me know what other languages you would like. Maybe it resolves the Misk section.
 
-©Copyright – All rights of the principal **kînus** idea, that is the combination of keys used to access special characters with the touch of only two extra keys, ("Key Twice What You See" – 'Key TWYS'), remain by me the creator. Commercial usage require written approval. If you are interested in licensing, please contact me. Comments are welcome.
+©Copyright – All rights of the principal <strong>kînus</strong> idea, that is the combination of keys used to access special characters with the touch of only two extra keys, ("Key Twice What You See" – Key TWYS)™, remain by me the creator. Commercial usage require written approval. If you are interested in licensing, please contact me. Comments are welcome.
 
 Mark Perleberg, Medienkontrollzentrum CEO · ©2017 
 
@@ -96,7 +98,7 @@ Mark Perleberg, Medienkontrollzentrum CEO · ©2017
 | ◌̇   | overdot	   | ; . |
 | ◌̄   | macron	       | ; - |
 | ◌̱   | underbar	   | ; _ |
-| ◌̷   | slash   	   | ; / |
+| ◌̷   | stroke   	   | ; / |
 |     |               |     |
 |     |      `Extent` |`:`  |
 | ◌̆   | breve	       | : ^ |
