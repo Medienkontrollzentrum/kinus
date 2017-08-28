@@ -28,7 +28,10 @@ Autohotkey is only used to demonstate the functional capability of the idea behi
 Please contact me for errors that you have noticed, also please let me know what other languages you would like, or are already covered by kînus and are not listed here. Maybe it resolves the Misk section.
 
 ©Copyright – All rights of the principal kînus idea, that is the combination of keys used to access special characters with the touch of only two extra keys, ("Key Twice What You See" – Key TWYS)™, remain by me the creator. Commercial usage require written approval. If you are interested in licensing, please contact me. Comments are welcome.
+
 Mark Perleberg, CEO · ©2017 Medienkontrollzentrum
+
+
 
 **kînus** includes all letters used in the following languages:
 
