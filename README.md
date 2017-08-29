@@ -3,15 +3,15 @@
 ### kînus - Additional Latin Characters &amp; Symbols for a standard U.S. Keyboard
 
     Update    2017-08-29
-    Version   kînus 5.1
+    Version   kînus 5.2
     Author    Mark Perleberg
     Email     info@medienkontrollzentrum.de
     Info      https://medienkontrollzentrum.com/kinus
     
-    MD5 kinus_5.1.exe  7a54822fa86a46ead5a182af07b79ed2
+    MD5 kinus_5.2.exe  df951a1e4f7a25a60597c84bdec35209
 
 
-kînus - a project of the Medienkontrollzentrum, open to public debate. The idea was to create an universal keyboard shortcut standard for letters with diacritics, like ò, ó, ô, ǒ, ö, ő, ȍ, ø, and other symbols, like: ¡ ¿ £ € « … ». Based on the U.S. standard keyboard layout, you gain access to 915 Western Latin UTF-8 Characters, 798 letters and 117 symbols.
+kînus - a project of the Medienkontrollzentrum, open to public debate. The idea was to create an universal keyboard shortcut standard for letters with diacritics, like ò, ó, ô, ǒ, ö, ő, ȍ, ø, and other symbols, like: ¡ ¿ £ € « … ». Based on the U.S. standard keyboard layout, you gain access to 927 Western Latin UTF-8 Characters, 810 letters and 117 symbols.
 
 I took a closer look on the Latin characters used in Europe, and developed a key system that enables your keyboard to access many special characters & letters by the touch of only two extra keys. I tried to avoid key combinations used in programming languages and also make it simple, logical, and easy to remember.
 
@@ -21,7 +21,7 @@ kînus gives you intuitive access to Grave, Circumflex, Tilde & Co:
 
 Conclusion
 
-If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 5.1.
+If you are using an U.S. Standard Keyboard, and need to get those special WESTERN LATIN UTF-8 Characters – kînus may be for you. The Autohotkey Application (EXE) is free, enjoy. Latest version for Windows is 5.2.
 
 Autohotkey is only used to demonstate the functional capability of the idea behind kînus. Integration should take place on the OS-Level.
 
